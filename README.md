@@ -1,3 +1,3 @@
 # mytest
 
-scapy douban information using python
+scrapy douban information using python
